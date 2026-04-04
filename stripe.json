@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "products": [
+    {
+      "name": "2048 Puzzle - Starter",
+      "description": "Starter plan for 2048 Puzzle",
+      "prices": [{"currency": "usd", "unit_amount": 900, "recurring": {"interval": "month"}}]
+    },
+    {
+      "name": "2048 Puzzle - Pro",
+      "description": "Pro plan for 2048 Puzzle",
+      "prices": [{"currency": "usd", "unit_amount": 2900, "recurring": {"interval": "month"}}]
+    }
+  ]
+}
